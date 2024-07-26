@@ -2,6 +2,8 @@
 
 export default function App() {
   return (
-    <div>Hello mohamad</div>
+    <div>Hello mohamad
+      <span> mohamad heelooo m,sd</span>
+    </div>
   )
 }
