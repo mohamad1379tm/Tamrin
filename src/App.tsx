@@ -6,6 +6,7 @@ export default function App() {
       <span> mohamad heelooo m,sd</span>
       <span> mohamad heelooo m,sd</span>
       <span> mohamad heelooo m,sd</span>
+      <span> nadi heelooo m,sd</span>
     </div>
   )
 }
