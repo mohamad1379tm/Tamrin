@@ -9,6 +9,8 @@ export default function App() {
       <span> nadi heelooo m,sd</span>
       <span> mohamad heelooo m,sd</span>
       <span> mohamad heelooo m,sd</span>
+      <span> mohamad heelooo m,sd</span>
+      <span> mohamad heelooo m,sd</span>
 
     </div>
   )
